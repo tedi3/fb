@@ -60,31 +60,31 @@ class FbBot:
 
 		url_person = 'https://www.facebook.com/alina.kashlinskaya'
 
-		url = 'https://www.facebook.com/malitha.kck/about'
+		url = 'https://www.facebook.com//about'
 
-		url1 = 'https://www.facebook.com/malitha.kck/about_work_and_education'
+		url1 = 'https://www.facebook.com//about_work_and_education'
 
-		url2 = 'https://www.facebook.com/malitha.kck/about_places'
+		url2 = 'https://www.facebook.com//about_places'
 
-		url3 = 'https://www.facebook.com/malitha.kck/about_contact_and_basic_info'
+		url3 = 'https://www.facebook.com//about_contact_and_basic_info'
 
 		#contact_info,websites_and_links,basic_info -gender
 
-		url4 = 'https://www.facebook.com/malitha.kck/about_family_and_relationships'
+		url4 = 'https://www.facebook.com//about_family_and_relationships'
 
 		#relationship,family_members
 
 
-		url5 = 'https://www.facebook.com/malitha.kck/about_details'
+		url5 = 'https://www.facebook.com//about_details'
 
 
-		url6 = 'https://www.facebook.com/malitha.kck/about_life_events'
+		url6 = 'https://www.facebook.com//about_life_events'
 
 
 
 		#####
 
-		friends = 'https://www.facebook.com/malitha.kck/friends'
+		friends = 'https://www.facebook.com//friends'
 
 
 
@@ -94,7 +94,7 @@ class FbBot:
 
 
 		###
-		photos = 'https://www.facebook.com/malitha.kck/photos'
+		photos = 'https://www.facebook.com//photos'
 
 
 
