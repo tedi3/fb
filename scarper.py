@@ -146,7 +146,7 @@ class FbBot:
 
 
 
-fb = FbBot('saralinda@easy.com','$buddy032') # replace with login deatils
+fb = FbBot('','') # replace with login deatils
 
 fb.login()
 #fb.group()
