@@ -1,0 +1,86 @@
+[0505/115004.926649:WARNING:resource_bundle.cc(366)] locale_file_path.empty() for locale 
+[0505/115005.142624:WARNING:resource_bundle.cc(366)] locale_file_path.empty() for locale 
+[0505/115005.541910:WARNING:resource_bundle.cc(366)] locale_file_path.empty() for locale 
+[0505/115005.626594:ERROR:gl_implementation.cc(241)] Failed to load /home/linuxlite/Desktop/facebook/bin/libosmesa.so: /home/linuxlite/Desktop/facebook/bin/libosmesa.so: cannot open shared object file: No such file or directory
+[0505/115005.898563:ERROR:gpu_child_thread.cc(254)] Exiting GPU process due to errors during initialization
+[0505/115005.980321:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+[0505/115318.779449:INFO:CONSOLE(15)] "
+
+
+                                            
+ .d8888b.  888                       888    
+d88P  Y88b 888                       888    
+Y88b.      888                       888    This is a browser feature intended for 
+ "Y888b.   888888  .d88b.  88888b.   888    developers. If someone told you to copy 
+    "Y88b. 888    d88""88b 888 "88b  888    and paste something here to enable a 
+      "888 888    888  888 888  888  Y8P    Facebook feature or "hack" someone's 
+Y88b  d88P Y88b.  Y88..88P 888 d88P         account, it is a scam and will give them 
+ "Y8888P"   "Y888  "Y88P"  88888P"   888    access to your Facebook account.
+                           888              
+                           888              
+                           888              
+
+See https://www.facebook.com/selfxss for more information.
+", source: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/CRxmG1gDVXK.js?_nc_x=Ij3Wp8lg5Kz (15)
+[0505/115500.205800:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115500.207761:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115500.212282:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115500.212737:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115500.299249:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115500.838732:INFO:CONSOLE(15)] "
+
+
+                                            
+ .d8888b.  888                       888    
+d88P  Y88b 888                       888    
+Y88b.      888                       888    This is a browser feature intended for 
+ "Y888b.   888888  .d88b.  88888b.   888    developers. If someone told you to copy 
+    "Y88b. 888    d88""88b 888 "88b  888    and paste something here to enable a 
+      "888 888    888  888 888  888  Y8P    Facebook feature or "hack" someone's 
+Y88b  d88P Y88b.  Y88..88P 888 d88P         account, it is a scam and will give them 
+ "Y8888P"   "Y888  "Y88P"  88888P"   888    access to your Facebook account.
+                           888              
+                           888              
+                           888              
+
+See https://www.facebook.com/selfxss for more information.
+", source: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/CRxmG1gDVXK.js?_nc_x=GN4oYZXg8-h (15)
+[0505/115505.253675:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115534.182863:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115534.461925:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115534.570510:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115534.571510:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115535.288734:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115535.289074:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115535.291261:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115535.291571:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115535.302499:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115535.302785:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115535.305295:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115535.305548:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115535.510094:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115535.510495:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115536.248246:INFO:CONSOLE(15)] "
+
+
+                                            
+ .d8888b.  888                       888    
+d88P  Y88b 888                       888    
+Y88b.      888                       888    This is a browser feature intended for 
+ "Y888b.   888888  .d88b.  88888b.   888    developers. If someone told you to copy 
+    "Y88b. 888    d88""88b 888 "88b  888    and paste something here to enable a 
+      "888 888    888  888 888  888  Y8P    Facebook feature or "hack" someone's 
+Y88b  d88P Y88b.  Y88..88P 888 d88P         account, it is a scam and will give them 
+ "Y8888P"   "Y888  "Y88P"  88888P"   888    access to your Facebook account.
+                           888              
+                           888              
+                           888              
+
+See https://www.facebook.com/selfxss for more information.
+", source: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y7/l/en_GB/CRxmG1gDVXK.js?_nc_x=GN4oYZXg8-h (15)
+[0505/115537.865986:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/115537.971025:WARNING:resource_bundle.cc(563)] locale resources are not loaded
+[0505/120528.803597:INFO:CONSOLE(12)] "WebSocket connection to 'wss://edge-chat.facebook.com/chat?region=frc&sid=4609591109222399' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/6vx3izZx_Th.js?_nc_x=GN4oYZXg8-h (12)
+[0505/120537.135399:INFO:CONSOLE(12)] "WebSocket connection to 'wss://edge-chat.facebook.com/chat?region=frc&sid=5366411161501695' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/6vx3izZx_Th.js?_nc_x=GN4oYZXg8-h (12)
+[0505/120541.331956:INFO:CONSOLE(12)] "WebSocket connection to 'wss://edge-chat.facebook.com/chat?region=frc&sid=7711041282637823' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/6vx3izZx_Th.js?_nc_x=GN4oYZXg8-h (12)
+[0505/120609.794075:INFO:CONSOLE(12)] "WebSocket connection to 'wss://edge-chat.facebook.com/chat?region=frc&sid=8825132495667199' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/6vx3izZx_Th.js?_nc_x=GN4oYZXg8-h (12)
